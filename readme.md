@@ -1,3 +1,5 @@
+Sumit Agrawal.
+
 TinyXML-2
 =========
 
